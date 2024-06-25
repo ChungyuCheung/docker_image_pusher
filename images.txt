@@ -10,3 +10,4 @@ mysql:5.7
 ghcr.io/monlor/xiaoya-alist
 ghcr.io/monlor/xiaoya-metadata
 ghcr.io/monlor/xiaoya-embyserver
+louislam/uptime-kuma
