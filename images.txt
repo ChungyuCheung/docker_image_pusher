@@ -7,3 +7,6 @@ xhofe/alist:latest
 centos
 python:alpine3.19
 mysql:5.7
+ghcr.io/monlor/xiaoya-alist
+ghcr.io/monlor/xiaoya-metadata
+ghcr.io/monlor/xiaoya-embyserver
